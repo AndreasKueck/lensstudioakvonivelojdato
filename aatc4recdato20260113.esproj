@@ -1,0 +1,47 @@
+studioVersion:
+  major: 5
+  minor: 19
+  patch: 2
+  build: 26031623
+  type: Public
+  buildFlavor: release
+  timestamp: 1773703692000
+  commit: a6bbde1e25b444c115f2030e539e408283561995
+coreVersion: 340
+clientVersion: 13.70
+updateCheckpoint: 92
+sceneId: 0a1ccb1a-fe88-4fbb-9883-e3af3c75fd99
+metaInfo:
+  hints:
+    []
+  tags:
+    []
+  lensName: Akvoniveloj (dato)
+  lensDescriptors:
+    - GEN_AI_ICON
+  lensApplicability:
+    - Front
+    - Back
+  lensClientCompatibilities:
+    - Mobile
+    - Web
+  platformBundlesEnabled: false
+  iconHash: 056a0af0a076c294c6389253d36e74c6
+  videoPreviewHash: ""
+  fromTemplateName: Default
+  fromTemplateUrl: Lens Studio 5.2.1.24102400
+  activationCamera: Rear
+  sourceMapEnabled: false
+  usingMinClientVersions: false
+  androidMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  iOSMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  documentId: a5740050-1aeb-433d-94af-0e96956e38db
+  originalDocumentId: d054558a-2e9e-4571-ae5b-101c642b5d51

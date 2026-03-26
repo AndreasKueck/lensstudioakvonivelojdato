@@ -1,0 +1,44 @@
+- !<AssetImportMetadata/f43a8773-222a-4ec3-9ce3-8bdd9008fea4>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 8b5581f7-4425-458d-9320-d69115519e27
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 8b5581f7-4425-458d-9320-d69115519e27
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 4eaa9dbe-da40-411b-8620-a2bf6ea22457
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/4eaa9dbe-da40-411b-8620-a2bf6ea22457>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 7826b456-3632-4c93-881e-70f4eba4d67e
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    eligoTeksto: false
+    textComponent: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - textComponent: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      eligoTeksto: !<reference.Text> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

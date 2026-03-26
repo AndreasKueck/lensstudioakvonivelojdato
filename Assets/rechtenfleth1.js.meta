@@ -1,0 +1,44 @@
+- !<AssetImportMetadata/005c3c23-7c32-43ed-8944-3baa5c2b578d>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> cf1e610c-57e8-46a2-bca5-d6b33b05493a
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> cf1e610c-57e8-46a2-bca5-d6b33b05493a
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 0d3708ab-a94f-4f10-9027-b103118b7f96
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/0d3708ab-a94f-4f10-9027-b103118b7f96>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 49264c86-f1bc-4e5f-85fc-fc24debb52f1
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    eligoTeksto: false
+    textComponent: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - textComponent: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      eligoTeksto: !<reference.Text> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
