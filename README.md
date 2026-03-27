@@ -12,6 +12,6 @@ Por krei Snapchat-lenson saman au similan al Akvoniveloj (dato), oni procedu jen
 4. Serchu tie lau Github Konnect.
 5. Instalu ghin.
 6. Klaku al Github Konnect.
-7. En la tiea Git Terminal enigu `git clone https://github.com/AndreasKueck/lensstudioakvonivelojdato.git` kaj klaku al `Run Git Command`.
+7. En la tiea Git Terminal enigu `git clone https://github.com/AndreasKueck/lensstudioakvonivelojdato.git` kaj klaku al `Run Git Command`. Eventuale estas necese antaue instali [Git](https://git-scm.com/download/win).
 8. Tio efikas, ke en via en-komputila projekto-dosierujo nomo123 ekestas dosierujo lensstudioakvonivelojdato kun interalie dosiero lensstudioakvonivelojdato.esproj.
 9. Ghin malfermu, kiel novan projekton, modifu kaj laubezone konservu sub alia nomo.
