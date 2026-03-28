@@ -21,3 +21,9 @@ Por krei Snapchat-lenson saman au similan al Akvoniveloj (dato), oni procedu jen
 
 Sugesto:
 Se per ret-apo "[Prognozo de akvoniveloj per TICON-4-datumoj](https://script.google.com/a/~/macros/s/AKfycbzgeChQUzIlVM5wmtsrmwZkNNJUZgFLLPvtYkNztVaFhHHq2xp3NqImx2uolmQw_qBG4g/exec)" oni estas kalkulinta akvonivelojn, la tiucele uzitaj harmonaj konstituantoj kaj ligitaj Doodson-numeroj estas en chelo A1 de [tiu Guglo-tabelo](https://docs.google.com/spreadsheets/d/1qFDaJeq2zCPmwGbbxtswWhSrJvBJuNoch3vXrRmheDU/edit?gid=0#gid=0). Ilin oni povas kopii kaj alglui en sia versio de dosiero rechtenfleth20260131.js por sia Snapchat-lenso por loko alia, ol Rechtenfleth, anstatau la harmonajn konstituantojn kaj ligitajn Doodson-numerojn de Rechtenfleth.
+
+## Permesilo / License
+
+Chi tiu projekto estas publikigita sub la [MIT-permesilo](./LICENSE).
+
+Vi estas libera uzi, modifi kaj distribui chi tiun Lens-Studio-projekton, se vi konservas la kopirajtan avizon.
