@@ -1,4 +1,6 @@
-Tio chi estas la Lens-Studio-pakajho por Snapchat-lenso "[Akvoniveloj (dato)](https://www.snapchat.com/lens/be1946fda5944ed4a4976e5e842f115e?type=SNAPCODE&metadata=01)". Ghi prezentas elstarajn akvonivelojn en Rechtenfleth prognozitajn por dato specifebla fare de la lenso-uzanto.
+Tio chi estas la Lens-Studio-pakajho por Snapchat-lenso "[Akvoniveloj (dato)](https://www.snapchat.com/lens/be1946fda5944ed4a4976e5e842f115e?type=SNAPCODE&metadata=01)". Ghi prezentas elstarajn akvonivelojn en Rechtenfleth prognozitajn por dato specifebla fare de la lenso-uzanto. Jen ekzempla videajho:
+
+https://github.com/user-attachments/assets/6a41608d-a905-485c-91ff-3f9464129908
 
 Tiu chi pakajho povas esti uzata, kiel shablono, ekzemple por krei similajn Snapchat-lensojn por aliaj lokoj.
 
